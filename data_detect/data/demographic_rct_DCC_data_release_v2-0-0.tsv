@@ -1,0 +1,148 @@
+*type	project_id	*submitter_id	*cases.submitter_id	age_at_index	cause_of_death_primary	cause_of_death_secondary	cur_employ_stat	days_to_death	death_related_to	education	ethnicity	gender	marital	race	sex	vital_status	year_of_birth	year_of_death
+demographic	ARDaC-AlcHepNet	11055_clinical_demographic	11055_clinical	35.1			Yes			Completed High School	not hispanic or latino	male	Divorced	white	male	Alive	1985	
+demographic	ARDaC-AlcHepNet	11058_clinical_demographic	11058_clinical	29.1	Decompensated liver disease	Acute respiratory failure Aspiration pneumonia Acute kidney injury	No	48		Completed High School	hispanic or latino	female	"Single, never married"	white	female	Dead	1991	2021
+demographic	ARDaC-AlcHepNet	11066_clinical_demographic	11066_clinical	26.5			No			Trade School/Some College	hispanic or latino	male	"Single, never married"	Unknown	male	Alive	1994	
+demographic	ARDaC-AlcHepNet	11067_clinical_demographic	11067_clinical	48.2	Anoxic brain injury secondary to pulseless electrical activity (PEA) complicated by cardiac and presumed septic shock	Pulseless electrical activity	No	62		Standard College/University	not hispanic or latino	male	Divorced	white	male	Dead	1972	2021
+demographic	ARDaC-AlcHepNet	11071_clinical_demographic	11071_clinical	43.1	Cardiac arrest in setting of decompensated cirrhosis and shock leading to multisystem organ failure	Acute respiratory failure Renal failure	No	17		Completed High School	not hispanic or latino	male	Married	white	male	Dead	1978	2021
+demographic	ARDaC-AlcHepNet	11078_clinical_demographic	11078_clinical	44	Shock	1) Acute respiratory failure with hypoxia 2) Acute kidney injury due to hepatorenal syndrome	No	53		Trade School/Some College	not hispanic or latino	female	Married	black or african american	female	Dead	1977	2021
+demographic	ARDaC-AlcHepNet	11080_clinical_demographic	11080_clinical	52.9			No			Completed Graduate/Professional Program	not hispanic or latino	male	Divorced	white	male	Alive	1968	
+demographic	ARDaC-AlcHepNet	11083_clinical_demographic	11083_clinical	67.8			No			Completed High School	not hispanic or latino	female	Married	white	female	Alive	1953	
+demographic	ARDaC-AlcHepNet	11085_clinical_demographic	11085_clinical	40.6	Decompensated liver failure		Yes	20		Trade School/Some College	not hispanic or latino	male	Married	white	male	Dead	1980	2021
+demographic	ARDaC-AlcHepNet	11089_clinical_demographic	11089_clinical	31.9			Yes			Completed High School	not hispanic or latino	male	Married	white	male	Alive	1989	
+demographic	ARDaC-AlcHepNet	11091_clinical_demographic	11091_clinical	68.5	Alcoholic cirrhosis of liver		No	53		Completed High School	not hispanic or latino	male	Married	white	male	Dead	1952	2021
+demographic	ARDaC-AlcHepNet	11092_clinical_demographic	11092_clinical	49			No			Trade School/Some College	not hispanic or latino	female	Separated	white	female	Alive	1972	
+demographic	ARDaC-AlcHepNet	11095_clinical_demographic	11095_clinical	63.6	Distributive shock		No	9		Standard College/University	not hispanic or latino	male	Divorced	white	male	Dead	1957	2021
+demographic	ARDaC-AlcHepNet	11098_clinical_demographic	11098_clinical	39	"Patient had grade IV encephalopathy, worsening coagulation, and distributive shock. Due to not being a liver transplant candidate the patient was placed on comfort care and died on 12/29/21"		No	197		Completed High School	not hispanic or latino	male	Living with significant other (common law marriage)	black or african american	male	Dead	1982	2021
+demographic	ARDaC-AlcHepNet	11099_clinical_demographic	11099_clinical	45.3			Yes			Completed Graduate/Professional Program	not hispanic or latino	male	Married	white	male	Alive	1976	
+demographic	ARDaC-AlcHepNet	11103_clinical_demographic	11103_clinical	52.7			No			Completed High School	not hispanic or latino	female	Married	white	female	Alive	1968	
+demographic	ARDaC-AlcHepNet	11114_clinical_demographic	11114_clinical	48.6			Yes			Standard College/University	not hispanic or latino	female	Living with significant other (common law marriage)	white	female	Alive	1973	
+demographic	ARDaC-AlcHepNet	11116_clinical_demographic	11116_clinical	48.5			No			Trade School/Some College	not hispanic or latino	female	Divorced	black or african american	female	Alive	1973	
+demographic	ARDaC-AlcHepNet	11118_clinical_demographic	11118_clinical	48.5			No			Completed High School	not hispanic or latino	male	Divorced	white	male	Alive	1973	
+demographic	ARDaC-AlcHepNet	11122_clinical_demographic	11122_clinical	51.6			No			Trade School/Some College	not hispanic or latino	female	Married	black or african american	female	Alive	1970	
+demographic	ARDaC-AlcHepNet	11125_clinical_demographic	11125_clinical	39.7	Acute on chronic liver failure	Hypothyroidism; Acute kidney injury; Obesity; Shock-Circulatory; Alcoholic cirrhosis of liver; Rash	Yes	31		Completed High School	not hispanic or latino	female	Married	white	female	Dead	1982	2021
+demographic	ARDaC-AlcHepNet	11128_clinical_demographic	11128_clinical	43.4			No			Completed High School	not hispanic or latino	male	"Single, never married"	black or african american	male	Alive	1978	
+demographic	ARDaC-AlcHepNet	11131_clinical_demographic	11131_clinical	56			Yes			Trade School/Some College	not hispanic or latino	male	Married	white	male	Alive	1966	
+demographic	ARDaC-AlcHepNet	11132_clinical_demographic	11132_clinical	47.5	Intracranial hemorrhage complicated  by brain herniation in setting of disseminated intravascular coagulation (DIC) from septic shock with multiple sources		Yes	67		Trade School/Some College	hispanic or latino	male	Divorced	Unknown	male	Dead	1974	2022
+demographic	ARDaC-AlcHepNet	11139_clinical_demographic	11139_clinical	47.3	cardiac arrest due to acute on chronic hemorrhagic pancreatitis		No	62		Completed High School	not hispanic or latino	female	Married	white	female	Dead	1974	2022
+demographic	ARDaC-AlcHepNet	21034_clinical_demographic	21034_clinical	68.8			No			Missing	not hispanic or latino	male	Divorced	white	male	Alive	1951	
+demographic	ARDaC-AlcHepNet	21035_clinical_demographic	21035_clinical	46.1			No			Trade School/Some College	not hispanic or latino	female	Married	More than one race	female	Alive	1974	
+demographic	ARDaC-AlcHepNet	21036_clinical_demographic	21036_clinical	36.6	Cardiogenic/septic shock leading to multiorgan failure		No	146		Elementary	not hispanic or latino	female	Divorced	white	female	Dead	1983	2020
+demographic	ARDaC-AlcHepNet	21038_clinical_demographic	21038_clinical	32.2			No			Standard College/University	not hispanic or latino	male	Married	white	male	Alive	1988	
+demographic	ARDaC-AlcHepNet	21039_clinical_demographic	21039_clinical	33.9	Primary cause of death was related to pneumonia and worsening hypoxemic resp. failure. Pt. was intubated on 11/10/2020 then developed shock requiring pressor support.  Pt. also began to suffer from multi system organ failure with worsening renal function as well as a possible STEMI.	Septic shock and multisystem organ failure.	No	49		Completed High School	hispanic or latino	male	Married	white	male	Dead	1986	2020
+demographic	ARDaC-AlcHepNet	21040_clinical_demographic	21040_clinical	32.5			Yes			Trade School/Some College	not hispanic or latino	male	Married	Unknown	male	Alive	1989	
+demographic	ARDaC-AlcHepNet	21043_clinical_demographic	21043_clinical	29.5	unknown		No	93		Year 10	not hispanic or latino	female	"Single, never married"	white	female	Dead	1991	2021
+demographic	ARDaC-AlcHepNet	21044_clinical_demographic	21044_clinical	39.2			Yes			Completed Graduate/Professional Program	not hispanic or latino	female	Living with significant other (common law marriage)	white	female	Alive	1981	
+demographic	ARDaC-AlcHepNet	21045_clinical_demographic	21045_clinical	39.6	Hemorrhagic shock	multi-organ failure; cardiac arrest	Yes	147		Trade School/Some College	not hispanic or latino	male	Divorced	white	male	Dead	1981	2021
+demographic	ARDaC-AlcHepNet	21046_clinical_demographic	21046_clinical	58.5			No			Trade School/Some College	not hispanic or latino	male	Divorced	white	male	Alive	1962	
+demographic	ARDaC-AlcHepNet	21047_clinical_demographic	21047_clinical	58.8			No			Completed High School	not hispanic or latino	male	Married	white	male	Alive	1962	
+demographic	ARDaC-AlcHepNet	21048_clinical_demographic	21048_clinical	31.1			No			Completed High School	not hispanic or latino	male	"Single, never married"	white	male	Alive	1990	
+demographic	ARDaC-AlcHepNet	21054_clinical_demographic	21054_clinical	41.4			Yes			Completed High School	not hispanic or latino	male	Married	white	male	Alive	1980	
+demographic	ARDaC-AlcHepNet	21055_clinical_demographic	21055_clinical	60.7			No			Completed High School	not hispanic or latino	female	Divorced	white	female	Alive	1960	
+demographic	ARDaC-AlcHepNet	21058_clinical_demographic	21058_clinical	45.5			Yes			Trade School/Some College	not hispanic or latino	female	Married	white	female	Alive	1976	
+demographic	ARDaC-AlcHepNet	21069_clinical_demographic	21069_clinical	45.8			Yes			Elementary	not hispanic or latino	male	Married	white	male	Alive	1975	
+demographic	ARDaC-AlcHepNet	21073_clinical_demographic	21073_clinical	36.1	Acute Renal Failure	Alcoholic Hepatitis	No	30		Completed High School	not hispanic or latino	female	Married	white	female	Dead	1985	2021
+demographic	ARDaC-AlcHepNet	21076_clinical_demographic	21076_clinical	56.5			No			Standard College/University	not hispanic or latino	male	Divorced	white	male	Alive	1965	
+demographic	ARDaC-AlcHepNet	21081_clinical_demographic	21081_clinical	45.8			No			Completed High School	not hispanic or latino	female	Divorced	black or african american	female	Alive	1976	
+demographic	ARDaC-AlcHepNet	31033_clinical_demographic	31033_clinical	48.9			No			Trade School/Some College	not hispanic or latino	male	"Single, never married"	black or african american	male	Alive	1972	
+demographic	ARDaC-AlcHepNet	31036_clinical_demographic	31036_clinical	29.5			No			Missing	not hispanic or latino	male	"Single, never married"	white	male	Alive	1991	
+demographic	ARDaC-AlcHepNet	31041_clinical_demographic	31041_clinical	54.7			Yes			Standard College/University	not hispanic or latino	male	Divorced	white	male	Alive	1966	
+demographic	ARDaC-AlcHepNet	31042_clinical_demographic	31042_clinical	51.8	Multisystem organ failure  Severe metabolic acidosis	Decompensated alcoholic liver cirrhosis with small ascites Metabolic encephalopathy secondary to liver cirrhosis Acute respiratory failure secondary to pulmonary edema with right pleural effusion Acute kidney injury requiring CRRT Anasarca Hyponatremia	Missing	119		Missing	not hispanic or latino	female	Married	white	female	Dead	1969	2021
+demographic	ARDaC-AlcHepNet	31043_clinical_demographic	31043_clinical	59.4			Missing			Missing	not hispanic or latino	female	Married	american indian or alaska native	female	Alive	1961	
+demographic	ARDaC-AlcHepNet	31044_clinical_demographic	31044_clinical	39.3			No			Trade School/Some College	not hispanic or latino	female	"Single, never married"	white	female	Alive	1981	
+demographic	ARDaC-AlcHepNet	31047_clinical_demographic	31047_clinical	31.9	Cirrhosis complicated by hemorrhagic shock		Yes	9		Trade School/Some College	not hispanic or latino	male	Divorced	white	male	Dead	1989	2021
+demographic	ARDaC-AlcHepNet	31049_clinical_demographic	31049_clinical	43.5			No			Trade School/Some College	not hispanic or latino	male	Separated	white	male	Alive	1977	
+demographic	ARDaC-AlcHepNet	31050_clinical_demographic	31050_clinical	49.2			No			Standard College/University	not hispanic or latino	male	Married	white	male	Alive	1972	
+demographic	ARDaC-AlcHepNet	31051_clinical_demographic	31051_clinical	42.5			Yes			Trade School/Some College	not hispanic or latino	male	Divorced	white	male	Alive	1978	
+demographic	ARDaC-AlcHepNet	31058_clinical_demographic	31058_clinical	43.6			Yes			Completed High School	not hispanic or latino	male	Married	white	male	Alive	1978	
+demographic	ARDaC-AlcHepNet	31062_clinical_demographic	31062_clinical	44.3	Unknown	Unknown	No	84		Completed High School	Unknown	male	Married	black or african american	male	Dead	1977	2021
+demographic	ARDaC-AlcHepNet	31064_clinical_demographic	31064_clinical	48.9			No			Completed High School	not hispanic or latino	female	"Single, never married"	black or african american	female	Alive	1972	
+demographic	ARDaC-AlcHepNet	31068_clinical_demographic	31068_clinical	49.6	Acute hypoxic hypercapnic respiratory failure secondary to  pneumonia and ETOH cirrhosis	"Volume overload/anasarca Alcoholic cirrhosis, with PSE, ascites, varices AKI on CKD stage 2-3 Hyponatremia  Normocytic anemia OSA LE stasis ulcer Anxiety /  depression History of hypertension"	No	19		Completed High School	not hispanic or latino	male	Married	white	male	Dead	1972	2021
+demographic	ARDaC-AlcHepNet	31071_clinical_demographic	31071_clinical	59.2			No			Year 10	not hispanic or latino	male	Married	black or african american	male	Alive	1962	
+demographic	ARDaC-AlcHepNet	31074_clinical_demographic	31074_clinical	55.6			Yes			Standard College/University	not hispanic or latino	female	"Single, never married"	white	female	Alive	1966	
+demographic	ARDaC-AlcHepNet	31077_clinical_demographic	31077_clinical	57.4	"Acute on chronic liver failure Decompensated alcohol induced cirrhosis with severe alcoholic hepatitis  Hepatorenal syndrome, type 1 Hyponatremia Bleeding tendencies"	Alcohol use disorder Alcohol associated hepatitis  Arrhythmias Epistaxis	No	28		Completed High School	not hispanic or latino	male	Divorced	white	male	Dead	1964	2022
+demographic	ARDaC-AlcHepNet	31079_clinical_demographic	31079_clinical	52	Unknown		No	80		Trade School/Some College	not hispanic or latino	male	Married	white	male	Dead	1970	2022
+demographic	ARDaC-AlcHepNet	42015_clinical_demographic	42015_clinical	62.3			No			Standard College/University	not hispanic or latino	male	Married	white	male	Alive	1958	
+demographic	ARDaC-AlcHepNet	42020_clinical_demographic	42020_clinical	50.9			Yes			Completed Graduate/Professional Program	not hispanic or latino	female	Married	white	female	Alive	1970	
+demographic	ARDaC-AlcHepNet	42021_clinical_demographic	42021_clinical	33.9			No			Trade School/Some College	not hispanic or latino	female	Married	white	female	Alive	1987	
+demographic	ARDaC-AlcHepNet	42022_clinical_demographic	42022_clinical	39.3			Yes			Trade School/Some College	hispanic or latino	female	Married	white	female	Alive	1982	
+demographic	ARDaC-AlcHepNet	42023_clinical_demographic	42023_clinical	57.7			Yes			Standard College/University	not hispanic or latino	female	Married	white	female	Alive	1963	
+demographic	ARDaC-AlcHepNet	42026_clinical_demographic	42026_clinical	46			Yes			Trade School/Some College	not hispanic or latino	female	Married	white	female	Alive	1975	
+demographic	ARDaC-AlcHepNet	42027_clinical_demographic	42027_clinical	40.7			No			Completed High School	not hispanic or latino	female	Married	black or african american	female	Alive	1980	
+demographic	ARDaC-AlcHepNet	42028_clinical_demographic	42028_clinical	36.2	Renal Failure	Unknown	No	131		Completed High School	not hispanic or latino	male	Married	white	male	Dead	1985	2022
+demographic	ARDaC-AlcHepNet	42033_clinical_demographic	42033_clinical	42.8			Yes			Completed Graduate/Professional Program	not hispanic or latino	female	"Single, never married"	white	female	Alive	1979	
+demographic	ARDaC-AlcHepNet	51054_clinical_demographic	51054_clinical	30.3			Yes			Standard College/University	not hispanic or latino	female	"Single, never married"	asian	female	Alive	1990	
+demographic	ARDaC-AlcHepNet	51057_clinical_demographic	51057_clinical	35.5			No			Year 10	not hispanic or latino	male	Married	white	male	Alive	1985	
+demographic	ARDaC-AlcHepNet	51058_clinical_demographic	51058_clinical	44.1	hepatic encephalopathy	"hepatic encephalopathy as noted twice on discharge encounter, esophageal varices/bleed"	No	10		Standard College/University	not hispanic or latino	female	Married	More than one race	female	Dead	1976	2020
+demographic	ARDaC-AlcHepNet	51062_clinical_demographic	51062_clinical	50			No			Standard College/University	not hispanic or latino	male	Divorced	white	male	Alive	1970	
+demographic	ARDaC-AlcHepNet	51063_clinical_demographic	51063_clinical	61.1			No			Completed High School	not hispanic or latino	female	Living with significant other (common law marriage)	white	female	Alive	1959	
+demographic	ARDaC-AlcHepNet	51069_clinical_demographic	51069_clinical	40.1			No			Trade School/Some College	not hispanic or latino	female	Married	white	female	Alive	1980	
+demographic	ARDaC-AlcHepNet	51073_clinical_demographic	51073_clinical	46			Yes			Trade School/Some College	not hispanic or latino	male	Living with significant other (common law marriage)	white	male	Alive	1975	
+demographic	ARDaC-AlcHepNet	51080_clinical_demographic	51080_clinical	31.8			No			Completed High School	not hispanic or latino	female	Married	white	female	Alive	1989	
+demographic	ARDaC-AlcHepNet	51088_clinical_demographic	51088_clinical	56.8	Gastrointestinal hemorrhage with shock	Anemia	No	73		Year 10	hispanic or latino	male	Living with significant other (common law marriage)	white	male	Dead	1964	2021
+demographic	ARDaC-AlcHepNet	51098_clinical_demographic	51098_clinical	61.4			No			Trade School/Some College	not hispanic or latino	male	Separated	white	male	Alive	1960	
+demographic	ARDaC-AlcHepNet	51100_clinical_demographic	51100_clinical	49.5			Yes			Completed High School	not hispanic or latino	female	Married	white	female	Alive	1972	
+demographic	ARDaC-AlcHepNet	52001_clinical_demographic	52001_clinical	44			Yes			Completed Graduate/Professional Program	not hispanic or latino	female	Married	white	female	Alive	1976	
+demographic	ARDaC-AlcHepNet	52003_clinical_demographic	52003_clinical	38.3			No			Completed High School	not hispanic or latino	male	Married	white	male	Alive	1982	
+demographic	ARDaC-AlcHepNet	52004_clinical_demographic	52004_clinical	27.4			Yes			Standard College/University	not hispanic or latino	female	Living with significant other (common law marriage)	white	female	Alive	1993	
+demographic	ARDaC-AlcHepNet	52005_clinical_demographic	52005_clinical	43.4	Acute GI Hemorrhage		No	14		Standard College/University	not hispanic or latino	male	Divorced	white	male	Dead	1977	2021
+demographic	ARDaC-AlcHepNet	52006_clinical_demographic	52006_clinical	38			Yes			Standard College/University	hispanic or latino	female	Divorced	white	female	Alive	1983	
+demographic	ARDaC-AlcHepNet	52007_clinical_demographic	52007_clinical	28.8			No			Completed High School	not hispanic or latino	female	"Single, never married"	american indian or alaska native	female	Alive	1993	
+demographic	ARDaC-AlcHepNet	53003_clinical_demographic	53003_clinical	46.8			Missing			Missing	not hispanic or latino	male	Divorced	white	male	Alive	1974	
+demographic	ARDaC-AlcHepNet	53004_clinical_demographic	53004_clinical	36			No			Missing	not hispanic or latino	female	Married	white	female	Alive	1985	
+demographic	ARDaC-AlcHepNet	61037_clinical_demographic	61037_clinical	34.3			Yes			Completed High School	not hispanic or latino	male	"Single, never married"	white	male	Alive	1986	
+demographic	ARDaC-AlcHepNet	61038_clinical_demographic	61038_clinical	49.1	renal failure due to end stage liver disease due to alcohol use disorder		No	28		Standard College/University	not hispanic or latino	male	Divorced	white	male	Dead	1971	2020
+demographic	ARDaC-AlcHepNet	61039_clinical_demographic	61039_clinical	59			No			Trade School/Some College	not hispanic or latino	female	Widowed	white	female	Alive	1961	
+demographic	ARDaC-AlcHepNet	61045_clinical_demographic	61045_clinical	52			No			Trade School/Some College	not hispanic or latino	male	Divorced	white	male	Alive	1969	
+demographic	ARDaC-AlcHepNet	61046_clinical_demographic	61046_clinical	36.9			No			Trade School/Some College	not hispanic or latino	male	Divorced	white	male	Alive	1984	
+demographic	ARDaC-AlcHepNet	61047_clinical_demographic	61047_clinical	41.5	Hemorrhagic shock		Yes	33		Standard College/University	not hispanic or latino	male	"Single, never married"	white	male	Dead	1979	2021
+demographic	ARDaC-AlcHepNet	61048_clinical_demographic	61048_clinical	62.4	"According to wife, internal bleeding (this was voiced by medics on scene). Update 5/11/22: On patient's death certificate, the primary causes of death are: steatohepatitis, alcoholic hepatitis, and liver cirrhosis."		Yes	7		Standard College/University	not hispanic or latino	male	Married	white	male	Dead	1958	2021
+demographic	ARDaC-AlcHepNet	61052_clinical_demographic	61052_clinical	55			No			Completed High School	not hispanic or latino	female	"Single, never married"	white	female	Alive	1966	
+demographic	ARDaC-AlcHepNet	61054_clinical_demographic	61054_clinical	31.7			No			Completed High School	not hispanic or latino	female	"Single, never married"	white	female	Alive	1989	
+demographic	ARDaC-AlcHepNet	61056_clinical_demographic	61056_clinical	36.1			No			Completed Graduate/Professional Program	not hispanic or latino	female	"Single, never married"	white	female	Alive	1985	
+demographic	ARDaC-AlcHepNet	61058_clinical_demographic	61058_clinical	38.1	MODS 2/2 liver failure		No	11		Trade School/Some College	not hispanic or latino	male	Divorced	white	male	Dead	1983	2021
+demographic	ARDaC-AlcHepNet	61060_clinical_demographic	61060_clinical	39.7			Yes			Year 10	not hispanic or latino	male	Divorced	white	male	Alive	1981	
+demographic	ARDaC-AlcHepNet	61063_clinical_demographic	61063_clinical	47.9			No			Trade School/Some College	not hispanic or latino	male	"Single, never married"	white	male	Alive	1973	
+demographic	ARDaC-AlcHepNet	61084_clinical_demographic	61084_clinical	36.6			Yes			Standard College/University	Unknown	female	Divorced	white	female	Alive	1985	
+demographic	ARDaC-AlcHepNet	71010_clinical_demographic	71010_clinical	39.7			Yes			Completed High School	not hispanic or latino	male	"Single, never married"	white	male	Alive	1980	
+demographic	ARDaC-AlcHepNet	71011_clinical_demographic	71011_clinical	39.2			No			Year 10	hispanic or latino	male	"Single, never married"	white	male	Alive	1981	
+demographic	ARDaC-AlcHepNet	71012_clinical_demographic	71012_clinical	35.9			No			Trade School/Some College	hispanic or latino	male	"Single, never married"	white	male	Alive	1985	
+demographic	ARDaC-AlcHepNet	71013_clinical_demographic	71013_clinical	52.9			No			Completed High School	not hispanic or latino	female	Widowed	white	female	Alive	1968	
+demographic	ARDaC-AlcHepNet	71014_clinical_demographic	71014_clinical	48.8			Yes			Trade School/Some College	not hispanic or latino	male	Divorced	asian	male	Alive	1972	
+demographic	ARDaC-AlcHepNet	71016_clinical_demographic	71016_clinical	60.3			Yes			Completed Graduate/Professional Program	not hispanic or latino	male	Separated	white	male	Alive	1960	
+demographic	ARDaC-AlcHepNet	71018_clinical_demographic	71018_clinical	45.2	COVID-19 pneumonia leading to ARDS	VRE bacteremia Pneumothorax 2° to mechanical ventilation.  Decompensated alcoholic cirrhosis.	No	97		Completed High School	hispanic or latino	male	Divorced	white	male	Dead	1976	2021
+demographic	ARDaC-AlcHepNet	71021_clinical_demographic	71021_clinical	38.7			Yes			Completed Graduate/Professional Program	not hispanic or latino	male	"Single, never married"	white	male	Alive	1982	
+demographic	ARDaC-AlcHepNet	71022_clinical_demographic	71022_clinical	53.4			Yes			Trade School/Some College	not hispanic or latino	male	Married	white	male	Alive	1968	
+demographic	ARDaC-AlcHepNet	72009_clinical_demographic	72009_clinical	45.2			No			Completed High School	not hispanic or latino	male	"Single, never married"	white	male	Alive	1975	
+demographic	ARDaC-AlcHepNet	72012_clinical_demographic	72012_clinical	41.5			Yes			Standard College/University	hispanic or latino	male	"Single, never married"	white	male	Alive	1979	
+demographic	ARDaC-AlcHepNet	72013_clinical_demographic	72013_clinical	45.9			No			Trade School/Some College	not hispanic or latino	male	"Single, never married"	white	male	Alive	1975	
+demographic	ARDaC-AlcHepNet	72017_clinical_demographic	72017_clinical	41.4			Yes			Missing	hispanic or latino	male	"Single, never married"	white	male	Alive	1979	
+demographic	ARDaC-AlcHepNet	72018_clinical_demographic	72018_clinical	32.1			No			Trade School/Some College	hispanic or latino	male	Separated	white	male	Alive	1989	
+demographic	ARDaC-AlcHepNet	72019_clinical_demographic	72019_clinical	35.9			Yes			Standard College/University	not hispanic or latino	female	"Single, never married"	white	female	Alive	1985	
+demographic	ARDaC-AlcHepNet	72020_clinical_demographic	72020_clinical	37.9	Liver Disease- decompensated alcoholic cirrhosis		Missing	482		Missing	not hispanic or latino	male	Married	white	male	Dead	1983	2022
+demographic	ARDaC-AlcHepNet	72021_clinical_demographic	72021_clinical	41.1	Liver Disease - Other		Yes	50		Completed High School	hispanic or latino	male	Living with significant other (common law marriage)	white	male	Dead	1980	2021
+demographic	ARDaC-AlcHepNet	72022_clinical_demographic	72022_clinical	54			Yes			Completed High School	hispanic or latino	male	Married	white	male	Alive	1967	
+demographic	ARDaC-AlcHepNet	72023_clinical_demographic	72023_clinical	51.9	unknown. Occurred outside of Hospital.		Yes	217		Trade School/Some College	not hispanic or latino	female	Divorced	black or african american	female	Dead	1969	2021
+demographic	ARDaC-AlcHepNet	72029_clinical_demographic	72029_clinical	39.4			Yes			Trade School/Some College	not hispanic or latino	male	"Single, never married"	white	male	Alive	1982	
+demographic	ARDaC-AlcHepNet	72030_clinical_demographic	72030_clinical	45.9			Yes			Completed High School	hispanic or latino	male	Married	white	male	Alive	1975	
+demographic	ARDaC-AlcHepNet	72035_clinical_demographic	72035_clinical	48.7			Yes			Trade School/Some College	not hispanic or latino	female	Divorced	white	female	Alive	1973	
+demographic	ARDaC-AlcHepNet	72036_clinical_demographic	72036_clinical	32.7	Multi-organ failure syndrome	Secondary Diagnoses: Upper GI bleeding 2o to post-banding ulcers Alcohol-associated hepatitis with liver failure Hepatorenal syndrome Complicated by MOFS	No	59		Year 10	hispanic or latino	male	Married	white	male	Dead	1989	2021
+demographic	ARDaC-AlcHepNet	72038_clinical_demographic	72038_clinical	52.5			Yes			Elementary	hispanic or latino	male	Married	white	male	Alive	1969	
+demographic	ARDaC-AlcHepNet	72041_clinical_demographic	72041_clinical	56.4			No			Completed High School	hispanic or latino	male	Divorced	white	male	Alive	1965	
+demographic	ARDaC-AlcHepNet	81051_clinical_demographic	81051_clinical	40.9			Yes			Completed High School	not hispanic or latino	male	"Single, never married"	white	male	Alive	1979	
+demographic	ARDaC-AlcHepNet	81052_clinical_demographic	81052_clinical	38			No			Completed High School	not hispanic or latino	female	Married	white	female	Alive	1982	
+demographic	ARDaC-AlcHepNet	81053_clinical_demographic	81053_clinical	27.6			No			Trade School/Some College	not hispanic or latino	female	"Single, never married"	white	female	Alive	1993	
+demographic	ARDaC-AlcHepNet	81054_clinical_demographic	81054_clinical	66.4			No			Standard College/University	not hispanic or latino	female	Married	black or african american	female	Alive	1954	
+demographic	ARDaC-AlcHepNet	81055_clinical_demographic	81055_clinical	40			Yes			Trade School/Some College	not hispanic or latino	male	Divorced	white	male	Alive	1980	
+demographic	ARDaC-AlcHepNet	81057_clinical_demographic	81057_clinical	33.1			No			Trade School/Some College	not hispanic or latino	female	Married	black or african american	female	Alive	1987	
+demographic	ARDaC-AlcHepNet	81058_clinical_demographic	81058_clinical	29.2			Missing			Missing	not hispanic or latino	female	"Single, never married"	black or african american	female	Alive	1991	
+demographic	ARDaC-AlcHepNet	81061_clinical_demographic	81061_clinical	42.2			No			Completed High School	not hispanic or latino	female	Divorced	white	female	Alive	1978	
+demographic	ARDaC-AlcHepNet	81063_clinical_demographic	81063_clinical	53.6			Missing			Missing	not hispanic or latino	male	Married	black or african american	male	Alive	1967	
+demographic	ARDaC-AlcHepNet	81064_clinical_demographic	81064_clinical	55.9			No			Trade School/Some College	not hispanic or latino	male	Married	white	male	Alive	1965	
+demographic	ARDaC-AlcHepNet	81068_clinical_demographic	81068_clinical	29	Liver failure		No	294		Completed High School	not hispanic or latino	female	"Single, never married"	white	female	Dead	1992	2022
+demographic	ARDaC-AlcHepNet	81070_clinical_demographic	81070_clinical	31.7			No			Missing	not hispanic or latino	female	Missing	white	female	Alive	1989	
+demographic	ARDaC-AlcHepNet	81076_clinical_demographic	81076_clinical	52			No			Trade School/Some College	not hispanic or latino	female	"Single, never married"	black or african american	female	Alive	1969	
+demographic	ARDaC-AlcHepNet	81077_clinical_demographic	81077_clinical	31.9			No			Trade School/Some College	not hispanic or latino	male	"Single, never married"	white	male	Alive	1989	
+demographic	ARDaC-AlcHepNet	81080_clinical_demographic	81080_clinical	39.8			Yes			Completed Graduate/Professional Program	not hispanic or latino	male	Divorced	white	male	Alive	1981	
+demographic	ARDaC-AlcHepNet	81091_clinical_demographic	81091_clinical	56.3			Yes			Completed Graduate/Professional Program	not hispanic or latino	male	Divorced	white	male	Alive	1965	
+demographic	ARDaC-AlcHepNet	81096_clinical_demographic	81096_clinical	41.2			Yes			Completed High School	not hispanic or latino	male	Married	white	male	Alive	1980	
+demographic	ARDaC-AlcHepNet	81108_clinical_demographic	81108_clinical	36			No			Trade School/Some College	not hispanic or latino	male	"Single, never married"	white	male	Alive	1985	

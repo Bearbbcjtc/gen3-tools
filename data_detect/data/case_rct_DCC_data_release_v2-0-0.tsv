@@ -1,0 +1,148 @@
+*type	project_id	*submitter_id	*studies.submitter_id	actarm	ah_hosp	ah_hosp_num	aki_status	bari_surgery	cohort	consent_type	days_180_aki	days_180_survival	days_90_aki	days_90_survival	days_to_aki	days_to_consent	days_to_death	index_date	inf_cnst_sign_dt	rct_meld_strata	study_site	vital_status
+case	ARDaC-AlcHepNet	11055_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11058_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11066_clinical	clinical	Prednisone														Study Enrollment		High(>25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11067_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11071_clinical	clinical	Prednisone														Study Enrollment		High(>25)	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11078_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11080_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11083_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11085_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11089_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11091_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11092_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11095_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11098_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11099_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11103_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11114_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11116_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11118_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11122_clinical	clinical	Prednisone														Study Enrollment		High(>25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11125_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11128_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11131_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11132_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11139_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	21034_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21035_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21036_clinical	clinical	Prednisone														Study Enrollment		High(>25)	Indiana University	dead
+case	ARDaC-AlcHepNet	21038_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21039_clinical	clinical	Prednisone														Study Enrollment		High(>25)	Indiana University	dead
+case	ARDaC-AlcHepNet	21040_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21043_clinical	clinical	Prednisone														Study Enrollment		High(>25)	Indiana University	dead
+case	ARDaC-AlcHepNet	21044_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21045_clinical	clinical	Prednisone														Study Enrollment		High(>25)	Indiana University	dead
+case	ARDaC-AlcHepNet	21046_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21047_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	Mayo Clinic - FL	alive
+case	ARDaC-AlcHepNet	21048_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21054_clinical	clinical	Prednisone														Study Enrollment		High(>25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21055_clinical	clinical	Prednisone														Study Enrollment		High(>25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21058_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21069_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21073_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	Indiana University	dead
+case	ARDaC-AlcHepNet	21076_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	Indiana University	alive
+case	ARDaC-AlcHepNet	21081_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	Indiana University	alive
+case	ARDaC-AlcHepNet	31033_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31036_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31041_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31042_clinical	clinical	Prednisone														Study Enrollment		High(>25)	University of Louisville	dead
+case	ARDaC-AlcHepNet	31043_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31044_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31047_clinical	clinical	Prednisone														Study Enrollment		High(>25)	University of Louisville	dead
+case	ARDaC-AlcHepNet	31049_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31050_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31051_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31058_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31062_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	University of Louisville	dead
+case	ARDaC-AlcHepNet	31064_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31068_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	University of Louisville	dead
+case	ARDaC-AlcHepNet	31071_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31074_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	University of Louisville	alive
+case	ARDaC-AlcHepNet	31077_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	University of Louisville	dead
+case	ARDaC-AlcHepNet	31079_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	University of Louisville	dead
+case	ARDaC-AlcHepNet	42015_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	BIDMC	alive
+case	ARDaC-AlcHepNet	42020_clinical	clinical	Prednisone														Study Enrollment		High(>25)	BIDMC	alive
+case	ARDaC-AlcHepNet	42021_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	BIDMC	alive
+case	ARDaC-AlcHepNet	42022_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	BIDMC	alive
+case	ARDaC-AlcHepNet	42023_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	BIDMC	alive
+case	ARDaC-AlcHepNet	42026_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	BIDMC	alive
+case	ARDaC-AlcHepNet	42027_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	BIDMC	alive
+case	ARDaC-AlcHepNet	42028_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	BIDMC	dead
+case	ARDaC-AlcHepNet	42033_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	BIDMC	alive
+case	ARDaC-AlcHepNet	51054_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51057_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51058_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51062_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51063_clinical	clinical	Prednisone														Study Enrollment		High(>25)	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51069_clinical	clinical	Prednisone														Study Enrollment		High(>25)	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51073_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51080_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51088_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51098_clinical	clinical	Prednisone														Study Enrollment		High(>25)	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51100_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	Mayo Clinic	alive
+case	ARDaC-AlcHepNet	52001_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	Mayo Clinic - AZ	alive
+case	ARDaC-AlcHepNet	52003_clinical	clinical	Prednisone														Study Enrollment		High(>25)	Mayo Clinic - AZ	alive
+case	ARDaC-AlcHepNet	52004_clinical	clinical	Prednisone														Study Enrollment		High(>25)	Mayo Clinic - AZ	alive
+case	ARDaC-AlcHepNet	52005_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	Mayo Clinic - AZ	dead
+case	ARDaC-AlcHepNet	52006_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	Mayo Clinic - AZ	alive
+case	ARDaC-AlcHepNet	52007_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	Mayo Clinic - AZ	alive
+case	ARDaC-AlcHepNet	53003_clinical	clinical	Prednisone														Study Enrollment		High(>25)	Mayo Clinic - FL	alive
+case	ARDaC-AlcHepNet	53004_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	Mayo Clinic - FL	alive
+case	ARDaC-AlcHepNet	61037_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61038_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61039_clinical	clinical	Prednisone														Study Enrollment		High(>25)	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61045_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61046_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61047_clinical	clinical	Prednisone														Study Enrollment		High(>25)	University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61048_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61052_clinical	clinical	Prednisone														Study Enrollment		High(>25)	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61054_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61056_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61058_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61060_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61063_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61084_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	71010_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71011_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71012_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71013_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71014_clinical	clinical	Prednisone														Study Enrollment		High(>25)	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71016_clinical	clinical	Prednisone														Study Enrollment		High(>25)	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71018_clinical	clinical	Prednisone														Study Enrollment		High(>25)	UT Southwestern	dead
+case	ARDaC-AlcHepNet	71021_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	UT Southwestern	alive
+case	ARDaC-AlcHepNet	71022_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	UT Southwestern	alive
+case	ARDaC-AlcHepNet	72009_clinical	clinical	Prednisone														Study Enrollment		High(>25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72012_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72013_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72017_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72018_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72019_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72020_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72021_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72022_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72023_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72029_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72030_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72035_clinical	clinical	Prednisone														Study Enrollment		High(>25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72036_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72038_clinical	clinical	Prednisone														Study Enrollment		High(>25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72041_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	81051_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81052_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81053_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81054_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81055_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81057_clinical	clinical	Prednisone														Study Enrollment		High(>25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81058_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81061_clinical	clinical	Prednisone														Study Enrollment		High(>25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81063_clinical	clinical	Prednisone														Study Enrollment		High(>25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81064_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81068_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81070_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81076_clinical	clinical	Prednisone														Study Enrollment		High(>25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81077_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81080_clinical	clinical	Anakinra + Zinc														Study Enrollment		Low(<=25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81091_clinical	clinical	Prednisone														Study Enrollment		Low(<=25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81096_clinical	clinical	Anakinra + Zinc														Study Enrollment		High(>25)	Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81108_clinical	clinical	Prednisone														Study Enrollment		High(>25)	Virginia Commonwealth University	alive

@@ -1,0 +1,251 @@
+Original Feature Name,Mapped Feature Name
+visitdat,visit_day
+ascyn,ascites_culture
+ascdat_m,ascites_date
+ascdat_d,ascites_date
+ascdat_y,ascites_date
+hepenyn,hep_enceph
+hependat_m,hep_enceph_diagnosis_date
+hependat_d,hep_enceph_diagnosis_date
+hependat_y,hep_enceph_diagnosis_date
+varyn,varices
+vardat_m,varices_diagnosis_date
+vardat_d,varices_diagnosis_date
+vardat_y,varices_diagnosis_date
+hepcaryn,hep_carcinoma
+hepcardat_m,hepcar_diagnosis_date
+hepcardat_d,hepcar_diagnosis_date
+hepcardat_y,hepcar_diagnosis_date
+livtnsplyn,liver_transplant
+livtnspldat_m,liver_transplant_date
+livtnspldat_d,liver_transplant_date
+livtnspldat_y,liver_transplant_date
+liverdat,liver_score_date
+meld,meld_score
+weight,weight
+bmi,bmi
+infscreennd,infection_screen_done
+infscreen_date,infection_screen_date
+socisbcnd,blood_culture
+socisbc,blood_culture_result
+socisbc_pos,blood_organism
+socisbcdat,blood_culture_date
+socisucnd,urine_culture
+socisuc,urine_culture_result
+socisuc_pos,urine_culture_organism
+socisucdat,urine_culture_date
+soicuc_fung,urine_culture_fungal_result
+socisacnd,ascites_culture
+socisac,ascites_culture_result
+socisac_pos,ascites_organism
+socisacdat,ascites_date
+endond,endoscopy
+endodat,endoscopy_date
+endovaryn,endoscopy_varices_present
+endovarsiz_esoph,esophageal_varices_size
+endobled_esoph,esophageal_varices_bleed
+endovarsiz_gast,gastric_varices_size
+endobled_gast,gastric_varices_bleed
+porthypsev,portal_hypertensive_gastropathy
+endoulcyn,endoscopy_ulcer_present
+endoulcsiz_esoph,esophageal_ulcer_size
+endoulcbled_esoph,esophageal_ulcer_bleed
+endoulcsiz_gast,gastric_ulcer_size
+endoulcbled_gast,gastric_ulcer_bleed
+endoulcsiz_duod,duodenum_ulcer_size
+endoulcbled_duod,duodenum_ulcer_bleed
+tlfbnumd,tlfb_number_drinks
+tlfbnumdd,tlfb_drinking_days
+labdat,No definition in DD
+hemnd,No definition in DD
+hemdat,No definition in DD
+hemdatoth,No definition in DD
+hemoglobinnd,No definition in DD
+hemoglobin,No definition in DD
+hemoglobin_norm,No definition in DD
+hemoglobindat,hemoglobindat
+wbcnd,wbcnd
+wbc,laboratory_test(WBC)
+wbc_norm,wbc_norm
+wbcdat,wbcdat
+plateletnd,laboratory_test(Platelets)
+platelet,platelet
+platelet_norm,platelet_norm
+plateletdat,plateletdat
+mcvnd,mcvnd
+mcv,laboratory_test(MCV)
+mcv_norm,mcv_norm
+mcvdat,mcvdat
+coagnd,No definition in DD
+coagdat,No definition in DD
+inrnd,inrnd
+inr_symb,inr_symb
+inr,laboratory_test(INR)
+inr_norm,inr_norm
+ptnd,ptnd
+pt,laboratory_test(Prothrombin Time)
+pt_upper,pt_upper
+pt_norm,pt_norm
+chemnd,No definition in DD
+chemdat,No definition in DD
+chemdatoth,No definition in DD
+glucosend,laboratory_test(Glucose)
+glucose_type,glucose_type
+rglucose,laboratory_test(Random Glucose)
+rglucose_norm,rglucose_norm
+rglucosedat,rglucosedat
+fglucose,fglucose
+fglucose_norm,fglucose_norm
+fglucosedat,fglucosedat
+albuminnd,albuminnd
+albumin,laboratory_test
+albumin_norm,albumin_norm
+albumindat,albumindat
+bili_totnd,bili_totnd
+bili_tot,laboratory_test(Total Bilirubin)
+bili_tot_norm,bili_tot_norm
+bili_totdat,bili_totdat
+bili_dirnd,bili_dirnd
+bili_dir_symb,bili_dir_symb
+bili_dir,laboratory_test(Direct Bilirubin)
+bili_dir_norm,bili_dir_norm
+bili_dirdat,bili_dirdat
+creatnd,creatnd
+creat,laboratory_test(Creatinine)
+creat_norm,creat_norm
+creatdat,creatdat
+est_gfrnd,est_gfrnd
+est_gfr_symb,est_gfr_symb
+est_gfr,laboratory_test(Estimated GFR)
+est_gfr_norm,est_gfr_norm
+est_gfrdat,est_gfrdat
+altnd,altnd
+alt,laboratory_test(ALT)
+alt_norm,alt_norm
+altdat,altdat
+astnd,astnd
+ast,laboratory_test(AST)
+ast_norm,ast_norm
+astdat,astdat
+alkalinend,alkalinend
+alkaline,laboratory_test(Alkaline Phosphatase)
+alkaline_norm,alkaline_norm
+alkalinedat,alkalinedat
+protein_totnd,protein_totnd
+protein_tot,laboratory_test(Total Protein)
+protein_tot_norm,protein_tot_norm
+protein_totdat,protein_totdat
+lipidnd,No definition in DD
+lipiddat,No definition in DD
+lipiddatoth,No definition in DD
+triglyceridend,triglyceridend
+triglyceride,laboratory_test(Triglycerides)
+triglyceride_norm,triglyceride_norm
+triglyceridedat,triglyceridedat
+chol_totnd,chol_totnd
+chol_tot,laboratory_test(Total Cholesterol)
+chol_tot_norm,chol_tot_norm
+chol_totdat,chol_totdat
+chol_ldlnd,chol_ldlnd
+chol_ldl,laboratory_test(Cholesterol LDL)
+chol_ldl_norm,chol_ldl_norm
+chol_ldldat,chol_ldldat
+chol_hdlnd,chol_hdlnd
+chol_hdl,laboratory_test(Cholesterol HDL)
+chol_hdl_norm,chol_hdl_norm
+chol_hdldat,chol_hdldat
+othlabnd,othlabnd
+othdat,othdat
+othdatoth,othdatoth
+hivnd,hivnd
+hiv,laboratory_test(HIV)
+hivdat,hivdat
+hbvnd,hbvnd
+hbv,laboratory_test(HBV Surface Antigen)
+hbvdat,hbvdat
+hcv_antibodynd,hcv_antibodynd
+hcv_antibody,laboratory_test(HCV Antibody)
+hcv_antibodydat,hcv_antibodydat
+hcv_absnd,No definition in DD
+hcv_abs,No definition in DD
+hcv_absdat,hcv_absdat
+hcv_lognd,No definition in DD
+hcv_log,No definition in DD
+hcv_logdat,hcv_logdat
+samplesnd,samplesnd
+smpldat,smpldat
+bloodnd,bloodnd
+bloodtime,bloodtime
+bloodfast,bloodfast
+bloodfast_hrs,bloodfast_hrs
+serumnum,serumnum
+plasmanum,plasmanum
+wbnum,wbnum
+ppplasmanum,ppplasmanum
+pbmcnd,pbmcnd
+pbmcdat,pbmcdat
+pbmcnum,pbmcnum
+cellcount,cellcount
+urinend,urinend
+urinedat,urinedat
+salivand,salivand
+salivadtc,salivadtc
+stoolnd,stoolnd
+stooldat,stooldat
+stoolhomcol,stoolhomcol
+stoolhomfroz,stoolhomfroz
+stoolhomtimfroz,stoolhomtimfroz
+stooltrice,stooltrice
+stoolrecdate,stoolrecdate
+plasaliqnum,plasaliqnum
+plasaliqnum_2,plasaliqnum_2
+plasaliqnum_3,plasaliqnum_3
+plasaliqnum_4,plasaliqnum_4
+serumaliqnum,serumaliqnum
+wbaliqnum,wbaliqnum
+lysedrbcaliqnum,lysedrbcaliqnum
+pbmcaliqnum,pbmcaliqnum
+cptaliqnum,cptaliqnum
+urinealiqnum,urinealiqnum
+stoolnum,stoolnum
+salivanum,salivanum
+exceptionyn,exceptionyn
+exception_ppp,exception_ppp
+exception_pbmc,exception_pbmc
+exception_ser,exception_ser
+exception_wb,exception_wb
+exception_prp,exception_prp
+exception_anak,exception_anak
+exception_uri,exception_uri
+exception_sal,exception_sal
+exception_sto,exception_sto
+liver_biopsy_done,liver_biopsy_done
+liver_biopsy_yn,liver_biopsy_yn
+liver_biopsy_date,liver_biopsy_date
+liver_biopsy_method,liver_biopsy_method
+liver_histology_fibrosis,liver_histology_fibrosis
+liver_histology_lobular,liver_histology_lobular
+liver_histology_pericellular,liver_histology_pericellular
+liver_histology_steatosis,liver_histology_steatosis
+liver_histology_mallory,liver_histology_mallory
+liver_histology_bilirubinostasis,liver_histology_bilirubinostasis
+liver_histology_ballooning,liver_histology_ballooning
+liver_histology_megamitochondira,liver_histology_megamitochondira
+liver_histology_pmn,liver_histology_pmn
+liver_histology_inflammatory,liver_histology_inflammatory
+liver_histology_krt7,liver_histology_krt7
+liver_histology_krt7_specify,liver_histology_krt7_specify
+liver_histology_other,liver_histology_other
+cmtrt_multivit_name,cmtrt_multivit_name
+cmtrt_label,cmtrt_label
+cmtrt_code,cmtrt_code
+cmtrt,cmtrt
+cmstdat_miss,cmstdat_miss
+cmstdat_m,cmstdat_m
+cmstdat_d,cmstdat_d
+cmstdat_y,cmstdat_y
+cmongo,cmongo
+cmendat_miss,cmendat_miss
+cmendat_m,cmendat_m
+cmendat_d,cmendat_d
+cmendat_y,cmendat_y

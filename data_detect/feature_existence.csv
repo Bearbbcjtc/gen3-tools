@@ -1,0 +1,221 @@
+Feature Name,Exists,Files
+mcvdat,n,
+hep_enceph,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+endoscopy_varices_present,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+bili_dir_norm,n,
+othdatoth,n,
+bili_dirnd,n,
+bloodtime,n,
+creatdat,n,
+laboratory_test(Creatinine),n,
+pbmcaliqnum,n,
+liver_histology_fibrosis,n,
+esophageal_ulcer_size,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+laboratory_test(Random Glucose),n,
+plasaliqnum_3,n,
+esophageal_ulcer_bleed,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+protein_totdat,n,
+laboratory_test,y,molecular_test_demo_dl.tsv
+visit_day,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+endoscopy,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+esophageal_varices_size,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+exception_prp,n,
+pbmcdat,n,
+laboratory_test(Direct Bilirubin),n,
+gastric_ulcer_bleed,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+protein_tot_norm,n,
+liver_score_date,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+hcv_logdat,n,
+liver_biopsy_done,n,
+hivnd,n,
+est_gfr_symb,n,
+laboratory_test(Glucose),n,
+albumin_norm,n,
+samplesnd,n,
+laboratory_test(INR),n,
+chol_totdat,n,
+hep_enceph_diagnosis_date,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+laboratory_test(AST),n,
+chol_hdldat,n,
+cmendat_miss,n,
+liver_histology_krt7_specify,n,
+liver_histology_other,n,
+glucose_type,n,
+creatnd,n,
+serumaliqnum,n,
+plasaliqnum,n,
+gastric_varices_size,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+portal_hypertensive_gastropathy,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+chol_tot_norm,n,
+hivdat,n,
+salivanum,n,
+bili_tot_norm,n,
+platelet,n,
+protein_totnd,n,
+stooltrice,n,
+liver_histology_krt7,n,
+cellcount,n,
+mcv_norm,n,
+blood_organism,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+bili_dir_symb,n,
+fglucose_norm,n,
+othlabnd,n,
+liver_histology_inflammatory,n,
+bloodfast,n,
+urine_culture_date,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+stoolrecdate,n,
+liver_transplant,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+cmstdat_miss,n,
+pt_upper,n,
+stoolhomcol,n,
+urine_culture,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+inrnd,n,
+chol_ldldat,n,
+exception_sto,n,
+laboratory_test(HCV Antibody),n,
+laboratory_test(HIV),n,
+salivadtc,n,
+liver_histology_bilirubinostasis,n,
+chol_totnd,n,
+liver_transplant_date,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+urinealiqnum,n,
+meld_score,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+plasmanum,n,
+urinedat,n,
+inr_norm,n,
+infection_screen_date,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+urine_culture_result,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+bmi,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+rglucose_norm,n,
+astnd,n,
+hbvdat,n,
+plasaliqnum_4,n,
+liver_histology_lobular,n,
+liver_histology_pmn,n,
+inr_symb,n,
+wbnum,n,
+ascites_date,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+weight,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+exception_wb,n,
+endoscopy_ulcer_present,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+creat_norm,n,
+bloodfast_hrs,n,
+wbcdat,n,
+hcv_antibodydat,n,
+wbaliqnum,n,
+ast_norm,n,
+laboratory_test(WBC),n,
+ptnd,n,
+stoolnum,n,
+cmtrt,n,
+duodenum_ulcer_size,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+bloodnd,n,
+triglyceridend,n,
+gastric_varices_bleed,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+plateletdat,n,
+alkalinend,n,
+exception_anak,n,
+stoolhomtimfroz,n,
+stoolhomfroz,n,
+ascites_organism,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+alkalinedat,n,
+laboratory_test(Platelets),n,
+liver_biopsy_yn,n,
+cmstdat_d,n,
+alkaline_norm,n,
+infection_screen_done,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+wbcnd,n,
+plasaliqnum_2,n,
+smpldat,n,
+ascites_culture_result,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+laboratory_test(Total Bilirubin),n,
+liver_histology_ballooning,n,
+cmtrt_code,n,
+laboratory_test(ALT),n,
+mcvnd,n,
+hepcar_diagnosis_date,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+ascites_culture,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+wbc_norm,n,
+laboratory_test(Total Protein),n,
+est_gfrnd,n,
+No definition in DD,n,
+hcv_absdat,n,
+alt_norm,n,
+salivand,n,
+liver_biopsy_date,n,
+urine_culture_fungal_result,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+laboratory_test(Prothrombin Time),n,
+chol_ldl_norm,n,
+laboratory_test(Cholesterol LDL),n,
+lysedrbcaliqnum,n,
+hep_carcinoma,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+gastric_ulcer_size,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+cmtrt_multivit_name,n,
+astdat,n,
+est_gfr_norm,n,
+rglucosedat,n,
+hcv_antibodynd,n,
+pbmcnd,n,
+esophageal_varices_bleed,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+hemoglobindat,n,
+bili_totnd,n,
+endoscopy_date,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+pt_norm,n,
+hbvnd,n,
+altdat,n,
+cmtrt_label,n,
+cptaliqnum,n,
+fglucosedat,n,
+stoolnd,n,
+laboratory_test(Estimated GFR),n,
+exception_ser,n,
+exception_sal,n,
+albuminnd,n,
+chol_hdlnd,n,
+bili_dirdat,n,
+serumnum,n,
+cmendat_y,n,
+stooldat,n,
+varices_diagnosis_date,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+blood_culture,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+liver_histology_pericellular,n,
+cmstdat_m,n,
+blood_culture_date,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+triglyceridedat,n,
+tlfb_drinking_days,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+cmendat_d,n,
+laboratory_test(MCV),n,
+ppplasmanum,n,
+pbmcnum,n,
+liver_biopsy_method,n,
+duodenum_ulcer_bleed,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+tlfb_number_drinks,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+bili_totdat,n,
+varices,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+laboratory_test(Total Cholesterol),n,
+cmendat_m,n,
+laboratory_test(HBV Surface Antigen),n,
+exception_pbmc,n,
+liver_histology_mallory,n,
+liver_histology_megamitochondira,n,
+platelet_norm,n,
+triglyceride_norm,n,
+exception_uri,n,
+albumindat,n,
+laboratory_test(Triglycerides),n,
+altnd,n,
+exception_ppp,n,
+urine_culture_organism,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+cmstdat_y,n,
+laboratory_test(Cholesterol HDL),n,
+fglucose,n,
+laboratory_test(Alkaline Phosphatase),n,
+liver_histology_steatosis,n,
+urinend,n,
+blood_culture_result,y,"follow-up_rct_DCC_data_release_v2-0-0_days.tsv, follow-up_obs_DCC_data_release_v2-0-0_days.tsv"
+chol_ldlnd,n,
+othdat,n,
+exceptionyn,n,
+est_gfrdat,n,
+cmongo,n,
+chol_hdl_norm,n,

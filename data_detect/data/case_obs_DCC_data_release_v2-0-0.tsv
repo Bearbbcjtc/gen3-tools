@@ -1,0 +1,1134 @@
+*type	project_id	*submitter_id	*studies.submitter_id	actarm	ah_hosp	ah_hosp_num	aki_status	bari_surgery	cohort	consent_type	days_180_aki	days_180_survival	days_90_aki	days_90_survival	days_to_aki	days_to_consent	days_to_death	index_date	inf_cnst_sign_dt	rct_meld_strata	study_site	vital_status
+case	ARDaC-AlcHepNet	11001_obs	obs						Healthy Donor									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11002_obs	obs						Healthy Donor									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11003_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11004_obs	obs						Healthy Donor									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11006_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11007_obs	obs						Healthy Donor									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11008_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11009_obs	obs						Healthy Donor									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11010_obs	obs						Healthy Donor									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11011_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11012_obs	obs						Healthy Donor									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11013_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11014_obs	obs						Healthy Donor									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11015_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11017_obs	obs						Healthy Donor									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11018_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11019_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11020_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11021_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11022_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11023_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11024_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11025_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11026_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11027_obs	obs						Healthy Donor									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11028_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11029_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11030_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11031_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11032_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11033_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11034_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11035_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11036_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11038_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11039_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11040_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11041_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11042_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11043_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11044_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11045_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11046_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11047_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11048_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11049_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11050_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11051_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11052_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11053_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11054_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11056_obs	obs						Healthy Donor									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11057_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11059_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11060_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11061_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11062_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11063_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11064_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11065_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11068_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11069_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11070_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11073_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11074_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11075_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11076_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11077_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11078_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11079_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11081_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11082_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11084_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11086_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11087_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11088_obs	obs						Healthy Donor									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11090_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11093_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11094_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11096_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11097_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11100_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11101_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11102_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11104_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11105_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11106_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11107_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11108_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11109_obs	obs						Healthy Donor									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11110_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11111_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11112_obs	obs						Healthy Donor									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11113_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11115_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11117_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11119_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11120_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11121_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11123_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11124_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11127_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11129_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11130_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11133_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11134_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11135_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11136_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11137_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11138_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11140_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11141_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11142_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11143_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11144_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11145_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11146_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11147_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11149_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11150_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11151_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11152_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11153_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11154_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11155_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11156_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11157_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11158_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11159_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11160_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11161_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11162_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11163_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11164_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11165_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11166_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11167_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11168_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11169_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11170_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11171_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11172_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11173_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11174_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11175_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11176_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11177_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11178_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11179_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11180_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11181_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11182_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11183_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11184_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11185_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11186_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11187_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11188_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11189_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11190_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11191_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11192_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11193_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11194_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11195_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11196_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11197_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11198_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11199_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11200_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11201_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11202_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11203_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11204_obs	obs						Healthy Donor									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11205_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11206_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11207_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11208_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11209_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11210_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11211_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11212_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11213_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11214_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11215_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11216_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11217_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11218_obs	obs						Healthy Donor									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11219_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11220_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11221_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11222_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11223_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11224_obs	obs						Healthy Donor									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11225_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11226_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11227_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11228_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11230_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11231_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11232_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11234_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11236_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11237_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11238_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11239_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11240_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11241_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11242_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11243_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11244_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11245_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11247_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11248_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	dead
+case	ARDaC-AlcHepNet	11249_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	11250_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Cleveland Clinic	alive
+case	ARDaC-AlcHepNet	21001_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21002_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21003_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21004_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21005_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21006_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	21007_obs	obs						Healthy Donor									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21008_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21009_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21010_obs	obs						Healthy Donor									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21011_obs	obs						Healthy Donor									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21012_obs	obs						Healthy Donor									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21013_obs	obs						Healthy Donor									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21014_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21015_obs	obs						Healthy Donor									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21016_obs	obs						Healthy Donor									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21018_obs	obs						Healthy Donor									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21019_obs	obs						Healthy Donor									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21020_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	21021_obs	obs						Healthy Donor									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21022_obs	obs						Healthy Donor									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21023_obs	obs						Healthy Donor									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21024_obs	obs						Healthy Donor									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21025_obs	obs						Healthy Donor									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21026_obs	obs						Healthy Donor									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21028_obs	obs						Healthy Donor									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21029_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	21031_obs	obs						Healthy Donor									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21032_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21034_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21035_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21036_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	21037_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21042_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	21051_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21052_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21053_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	21056_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21057_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	21059_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21061_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	21062_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21063_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	21064_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21065_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	21066_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	21067_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21068_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21071_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	21075_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21077_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	21078_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21079_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	21080_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	21082_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	21083_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21085_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21086_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21090_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21091_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21092_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21093_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21094_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21096_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21097_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21099_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	21100_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	21101_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21102_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21103_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	21104_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21105_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21106_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21107_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21108_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21110_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	21111_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21112_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21113_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21114_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21115_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21116_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	21117_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21118_obs	obs						Healthy Donor									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21119_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21120_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21121_obs	obs						Healthy Donor									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21122_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21123_obs	obs						Healthy Donor									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21124_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21125_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21126_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21127_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21128_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21129_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21130_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21131_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21132_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21133_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21134_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21135_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21136_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	21137_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21138_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21139_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21140_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21141_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21142_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21144_obs	obs						Healthy Donor									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21145_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	21146_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21148_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21149_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21150_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21151_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21152_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21153_obs	obs						Healthy Donor									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	21154_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	21155_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	alive
+case	ARDaC-AlcHepNet	22001_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Indiana University	dead
+case	ARDaC-AlcHepNet	31001_obs	obs						Healthy Donor									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31002_obs	obs						Healthy Donor									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31003_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31004_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	dead
+case	ARDaC-AlcHepNet	31005_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	dead
+case	ARDaC-AlcHepNet	31006_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31007_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31008_obs	obs						Healthy Donor									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31009_obs	obs						Healthy Donor									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31010_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31012_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31013_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31015_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31016_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	dead
+case	ARDaC-AlcHepNet	31017_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31018_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31019_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31020_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	dead
+case	ARDaC-AlcHepNet	31021_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31022_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31023_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31024_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31025_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31026_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31027_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31028_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31029_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	dead
+case	ARDaC-AlcHepNet	31030_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	dead
+case	ARDaC-AlcHepNet	31032_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31034_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31035_obs	obs						Healthy Donor									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31037_obs	obs						Healthy Donor									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31038_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31039_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31040_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31045_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31048_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31052_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	dead
+case	ARDaC-AlcHepNet	31053_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31054_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31055_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	dead
+case	ARDaC-AlcHepNet	31056_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31057_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31059_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31060_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31061_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31063_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	dead
+case	ARDaC-AlcHepNet	31065_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31066_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31067_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31069_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31070_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31073_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31075_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31076_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	dead
+case	ARDaC-AlcHepNet	31078_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31080_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31081_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31082_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31083_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31084_obs	obs						Healthy Donor									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31085_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31086_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31087_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	dead
+case	ARDaC-AlcHepNet	31088_obs	obs						Healthy Donor									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31089_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31090_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	dead
+case	ARDaC-AlcHepNet	31091_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31092_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31093_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31094_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31095_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31096_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31097_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31099_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31100_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31101_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	dead
+case	ARDaC-AlcHepNet	31102_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31103_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31104_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31105_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31106_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31107_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31108_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31109_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31110_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31111_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31112_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31113_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31114_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31115_obs	obs						Healthy Donor									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31116_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31117_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31118_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31119_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31120_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31121_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31122_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31123_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	dead
+case	ARDaC-AlcHepNet	31125_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31126_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31127_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31128_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31129_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31130_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31131_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31132_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	dead
+case	ARDaC-AlcHepNet	31133_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31135_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31136_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31137_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31138_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31139_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31140_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31141_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31142_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31143_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31144_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	31146_obs	obs						Healthy Donor									Study Enrollment			University of Louisville	alive
+case	ARDaC-AlcHepNet	41001_obs	obs						Healthy Donor									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41002_obs	obs						Healthy Donor									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41003_obs	obs						Healthy Donor									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41004_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UMass Medical School	dead
+case	ARDaC-AlcHepNet	41005_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41006_obs	obs						Healthy Donor									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41007_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41008_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41009_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41010_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41011_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41012_obs	obs						Healthy Donor									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41013_obs	obs						Healthy Donor									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41014_obs	obs						Healthy Donor									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41015_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41016_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41017_obs	obs						Healthy Donor									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41018_obs	obs						Healthy Donor									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41019_obs	obs						Healthy Donor									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41020_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41021_obs	obs						Healthy Donor									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41023_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UMass Medical School	dead
+case	ARDaC-AlcHepNet	41024_obs	obs						Healthy Donor									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41025_obs	obs						Healthy Donor									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41026_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41027_obs	obs						Healthy Donor									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41028_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	41029_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UMass Medical School	alive
+case	ARDaC-AlcHepNet	42001_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42002_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42003_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	dead
+case	ARDaC-AlcHepNet	42004_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42005_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	dead
+case	ARDaC-AlcHepNet	42006_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42007_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	dead
+case	ARDaC-AlcHepNet	42008_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	dead
+case	ARDaC-AlcHepNet	42009_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42010_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42011_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42012_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42013_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42014_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42016_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42017_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	dead
+case	ARDaC-AlcHepNet	42018_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	dead
+case	ARDaC-AlcHepNet	42019_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42024_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	dead
+case	ARDaC-AlcHepNet	42025_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42029_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42031_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42032_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42034_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42035_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42036_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42037_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42038_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	dead
+case	ARDaC-AlcHepNet	42039_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42040_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42041_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42042_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	dead
+case	ARDaC-AlcHepNet	42043_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42044_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42045_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42046_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42047_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42048_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	dead
+case	ARDaC-AlcHepNet	42049_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42050_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42051_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42052_obs	obs						Healthy Donor									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42053_obs	obs						Healthy Donor									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42054_obs	obs						Healthy Donor									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42055_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	dead
+case	ARDaC-AlcHepNet	42056_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42057_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42058_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42059_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42060_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	dead
+case	ARDaC-AlcHepNet	42061_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42062_obs	obs						Healthy Donor									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42063_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	dead
+case	ARDaC-AlcHepNet	42064_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42065_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42066_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	dead
+case	ARDaC-AlcHepNet	42067_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42068_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	dead
+case	ARDaC-AlcHepNet	42069_obs	obs						Healthy Donor									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42070_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42071_obs	obs						Healthy Donor									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42072_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42073_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	dead
+case	ARDaC-AlcHepNet	42074_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42075_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42076_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42077_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	dead
+case	ARDaC-AlcHepNet	42078_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42079_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42080_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	dead
+case	ARDaC-AlcHepNet	42081_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42082_obs	obs						Healthy Donor									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42083_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42084_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42085_obs	obs						Healthy Donor									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42086_obs	obs						Healthy Donor									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42087_obs	obs						Healthy Donor									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42088_obs	obs						Healthy Donor									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42089_obs	obs						Healthy Donor									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42090_obs	obs						Healthy Donor									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42091_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42092_obs	obs						Healthy Donor									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42093_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42094_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42095_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42096_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42097_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	dead
+case	ARDaC-AlcHepNet	42098_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42099_obs	obs						Healthy Donor									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	42101_obs	obs						Healthy Donor									Study Enrollment			BIDMC	alive
+case	ARDaC-AlcHepNet	51001_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51002_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51003_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51004_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51005_obs	obs						Healthy Donor									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51006_obs	obs						Healthy Donor									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51007_obs	obs						Healthy Donor									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51008_obs	obs						Healthy Donor									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51009_obs	obs						Healthy Donor									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51010_obs	obs						Healthy Donor									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51011_obs	obs						Healthy Donor									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51012_obs	obs						Healthy Donor									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51013_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51014_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51015_obs	obs						Healthy Donor									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51016_obs	obs						Healthy Donor									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51017_obs	obs						Healthy Donor									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51018_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51019_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51021_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51022_obs	obs						Healthy Donor									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51023_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51024_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51025_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51026_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51027_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51028_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51029_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51030_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51031_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51032_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51033_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51034_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51035_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51036_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51037_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51038_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51039_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51040_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51041_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51042_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51043_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51044_obs	obs						Healthy Donor									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51045_obs	obs						Healthy Donor									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51046_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51047_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51048_obs	obs						Healthy Donor									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51049_obs	obs						Healthy Donor									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51050_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51051_obs	obs						Healthy Donor									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51052_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51053_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51054_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51055_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51056_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51059_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51061_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51064_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51065_obs	obs						Healthy Donor									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51066_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51067_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51068_obs	obs						Healthy Donor									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51070_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51071_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51072_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51074_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51076_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51077_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51078_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51079_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51081_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51082_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51083_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51084_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51085_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51086_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51087_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51089_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51090_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51091_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51092_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51093_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51094_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51095_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51096_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51097_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51099_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51101_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51102_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51103_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51104_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51105_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51106_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51107_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51108_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51109_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51110_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51111_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51112_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51113_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51114_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51115_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51116_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51117_obs	obs						Healthy Donor									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51118_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51119_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51120_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51121_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51122_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51123_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51124_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51125_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51126_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51127_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51128_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51129_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51130_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51131_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51132_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51133_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51134_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51135_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51136_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51137_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51138_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51139_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51140_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51141_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51142_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51143_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51144_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51145_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51146_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51147_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51148_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51149_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51150_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51151_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51152_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51153_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51154_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51155_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51156_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51158_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51159_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51160_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51161_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51162_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	dead
+case	ARDaC-AlcHepNet	51163_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51164_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51165_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	51166_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Mayo Clinic	alive
+case	ARDaC-AlcHepNet	61001_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61002_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61003_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61004_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61005_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61006_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61007_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61008_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61009_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61010_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61011_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61012_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61013_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61014_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61015_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61016_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61017_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61018_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61019_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61020_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61022_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61023_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61024_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61025_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61026_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61027_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61028_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61029_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61030_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61031_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61032_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61033_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61034_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61036_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61040_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61041_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61042_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61043_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61044_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61049_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61050_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61051_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61053_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61055_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61057_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61059_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61061_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61062_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61065_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61066_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61067_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61068_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61069_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61072_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61073_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61074_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61075_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61076_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61077_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61078_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61079_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61080_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61081_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61082_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61083_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61085_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61086_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61087_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61088_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61089_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61090_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61091_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61092_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61093_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61094_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61095_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61096_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61097_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61098_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61099_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61100_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61101_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61102_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61103_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61104_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61105_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61106_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61107_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	dead
+case	ARDaC-AlcHepNet	61108_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61109_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61110_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61111_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61112_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61113_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61114_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61115_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61116_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61117_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61118_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61119_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61120_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61121_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61122_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61123_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	61124_obs	obs						Healthy Donor									Study Enrollment			University of Pittsburgh	alive
+case	ARDaC-AlcHepNet	71001_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71002_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71003_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71004_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71005_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71006_obs	obs						Healthy Donor									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71007_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	dead
+case	ARDaC-AlcHepNet	71008_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	dead
+case	ARDaC-AlcHepNet	71009_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	dead
+case	ARDaC-AlcHepNet	71015_obs	obs						Healthy Donor									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71017_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	dead
+case	ARDaC-AlcHepNet	71019_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71020_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	dead
+case	ARDaC-AlcHepNet	71023_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71024_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	dead
+case	ARDaC-AlcHepNet	71025_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71026_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71027_obs	obs						Healthy Donor									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71029_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71030_obs	obs						Healthy Donor									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71031_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71032_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71033_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	dead
+case	ARDaC-AlcHepNet	71034_obs	obs						Healthy Donor									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71035_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71036_obs	obs						Healthy Donor									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71037_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71038_obs	obs						Healthy Donor									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71039_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	dead
+case	ARDaC-AlcHepNet	71040_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71041_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71042_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	dead
+case	ARDaC-AlcHepNet	71043_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71044_obs	obs						Healthy Donor									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71045_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71046_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71047_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71048_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71049_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71051_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71052_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71054_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	dead
+case	ARDaC-AlcHepNet	71055_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71056_obs	obs						Healthy Donor									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71057_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71058_obs	obs						Healthy Donor									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71059_obs	obs						Healthy Donor									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71060_obs	obs						Healthy Donor									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71061_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71062_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71063_obs	obs						Healthy Donor									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71064_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	dead
+case	ARDaC-AlcHepNet	71065_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71066_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71067_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71069_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71070_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71071_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71072_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71073_obs	obs						Healthy Donor									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71074_obs	obs						Healthy Donor									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	71075_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			UT Southwestern	alive
+case	ARDaC-AlcHepNet	72001_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72002_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72003_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72004_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72005_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72006_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72007_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72008_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72010_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72011_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72015_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72024_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72025_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72026_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72027_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72028_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72031_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72032_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72033_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72034_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72037_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72039_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72040_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72042_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72043_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72044_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72045_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72046_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72047_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72048_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72049_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72050_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72051_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72052_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72053_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72054_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72055_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72056_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72057_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72058_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72059_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72060_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72061_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72062_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72064_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72065_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	dead
+case	ARDaC-AlcHepNet	72066_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72067_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72068_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72069_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72071_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	72072_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			UT Southwestern - Parkland	alive
+case	ARDaC-AlcHepNet	81001_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81002_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81003_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81004_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81005_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81006_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81007_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81008_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81009_obs	obs						Healthy Donor									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81010_obs	obs						Healthy Donor									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81011_obs	obs						Healthy Donor									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81012_obs	obs						Healthy Donor									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81013_obs	obs						Healthy Donor									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81015_obs	obs						Healthy Donor									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81016_obs	obs						Healthy Donor									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81017_obs	obs						Healthy Donor									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81018_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81019_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81020_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81021_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81022_obs	obs						Healthy Donor									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81023_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81024_obs	obs						Healthy Donor									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81025_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81026_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81027_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81028_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81029_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81030_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81031_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81032_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81033_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81034_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81035_obs	obs						Healthy Donor									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81036_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81037_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81038_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81039_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81040_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81041_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81042_obs	obs						Healthy Donor									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81043_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81044_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81045_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81046_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81047_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81048_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81049_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81050_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81056_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81059_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81060_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81062_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81065_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81066_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81067_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81069_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81071_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81072_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81073_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81074_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81075_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81078_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81079_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81081_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81082_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81084_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81085_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81086_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81087_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81088_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81089_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81090_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81092_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81093_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81094_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81095_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81096_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81097_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81098_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81099_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81100_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81101_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81102_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81103_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81104_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81105_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81106_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81107_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81109_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81110_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81111_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81112_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81113_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81114_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81115_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81116_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81117_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81118_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81119_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81120_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81121_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81122_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81123_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81124_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81125_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81126_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81127_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81128_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81129_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81130_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81131_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81132_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81133_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81134_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81135_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81136_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81137_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81138_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81139_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81140_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81141_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81142_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81143_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81144_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81146_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81147_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81148_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81149_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81150_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81151_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81152_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81153_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81154_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81155_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81156_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81157_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81158_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81159_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81160_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81161_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81162_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81163_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81164_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81165_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81166_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81167_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81168_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81169_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81170_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81171_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81172_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81173_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81174_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81175_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81176_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81177_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81178_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81179_obs	obs						Healthy Donor									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81181_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81182_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81183_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81184_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81185_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81186_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81187_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81188_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81189_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81190_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81191_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81192_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81193_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81194_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81195_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81196_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81197_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81198_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81200_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81201_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81202_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81203_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	dead
+case	ARDaC-AlcHepNet	81204_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81205_obs	obs						Heavy Drinker without Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81206_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81207_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81208_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81209_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81210_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
+case	ARDaC-AlcHepNet	81211_obs	obs						Heavy Drinker with Alcoholic Hepatits									Study Enrollment			Virginia Commonwealth University	alive
