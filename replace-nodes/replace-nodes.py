@@ -3,11 +3,11 @@ from gen3.submission import Gen3Submission
 
 # Set up the URL of the Gen3 commons you're working with
 
-# program_name = "ARDaC"
-# commons_url = 'https://gen3-iudcc.cis230185.projects.jetstream-cloud.org/'
+program_name = "ARDaC"
+commons_url = 'https://gen3-iudcc.cis230185.projects.jetstream-cloud.org/'
 
-program_name = "ORIEN"
-commons_url = 'https://newdata-test04.cis230185.projects.jetstream-cloud.org/'
+# program_name = "ORIEN"
+# commons_url = 'https://newdata-test04.cis230185.projects.jetstream-cloud.org/'
 
 # Authenticate using your credentials file (JSON format)
 credentials = f"./credentials_{program_name}.json"
@@ -18,13 +18,13 @@ submission = Gen3Submission(commons_url, auth)
 
 # Specify the program, project, and the type of node to be deleted
 
-# program = "ARDaC"
-# project = "AlcHepNet"
-# node_type = "demographic"
+program = "ARDaC"
+project = "AlcHepNet"
+node_type = "lab"
 
-program = "ORIEN"
-project = "Avatar"
-node_type = "study"
+# program = "ORIEN"
+# project = "Avatar"
+# node_type = "study"
 
 # Delete the node of the specified type from the program and project
 print(f"Attempting to delete node...")
